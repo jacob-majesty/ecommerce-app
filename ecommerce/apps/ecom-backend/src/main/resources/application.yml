@@ -2,7 +2,7 @@ logging:
   level:
     ROOT: INFO
     org.hibernate.SQL: INFO
-    fr.codecake.ecom: INFO
+    com.majesty.ecom: INFO
 
 spring:
   application:
